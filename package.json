@@ -1,0 +1,19 @@
+{
+  "private": "true",
+  "name": "to-realize-react",
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AshGreyG/To-Realize-React.git",
+  "author": "AshGrey🥕 <ashgrey.huaier@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.28.0",
+    "@babel/core": "^7.28.0",
+    "@babel/preset-flow": "^7.27.1",
+    "babel-plugin-syntax-hermes-parser": "^0.29.1",
+    "flow-bin": "^0.276.0"
+  }
+}

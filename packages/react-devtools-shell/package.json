@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "react-devtools-shell",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^24.1.0",
+    "webpack": "^5.100.2"
+  }
+}
